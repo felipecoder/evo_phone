@@ -1,7 +1,7 @@
-# evo_phone
- Celular Evolution Software Inc - FiveM
+# ps_phone
+ Celular PequiShop
 
 Código: Open Source
 
-Informações detalhadas em: https://discord.gg/ZrzstZ2F8q
+Informações detalhadas em: https://pequishop.com
 
